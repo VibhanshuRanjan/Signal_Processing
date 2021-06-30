@@ -4,4 +4,4 @@ plotting it in various ways etc.
 
 # Steps to follow
 * Download .wav(audio file) from the repository or use anyone of your own.
-* Open .mat file in the matlab and modify the location of audio file in the code.
+* Open .m file in the matlab and modify the location of audio file in the code.
